@@ -8,7 +8,7 @@ import com.main.hello.MessageUtil;
 
 public class MessageUtilTest {
 	@Test
-	public void createMessageは引数で渡された名前の前にHelloを追加して返す() {
+	public void createMessageTest() {
 	// setup
 	MessageUtil messageUtil = new MessageUtil();
 	// when
