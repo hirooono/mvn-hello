@@ -12,6 +12,6 @@ public class MessageUtilTest {
 	String message = messageUtil.createMessage("Shoichi");
 
 	// then
-	assertEquals("hello, Shoichi", message);
+	assertEquals("Hello, Shoichi", message);
 }
 	}
