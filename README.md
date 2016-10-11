@@ -1,1 +1,1 @@
-# mvn-hello
+# mvn-hello-world
